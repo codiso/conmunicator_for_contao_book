@@ -1,4 +1,4 @@
-# Introduction2
+# Introduction
 The workflow in developing a websites is redefined since the new generation of WYSIWYG editors are on the market. The new tools generate HTML, CSS and JavaScript without any coding by yourself.
 
 I am a programmer and developer and in the beginning i was initially skeptical about the code quality. But the curiosity bothered me and I just had to try out these tools by my self. After the first steps with different tools I came to a conclution. The reputation is worse than the results that can be achieved with the products.
