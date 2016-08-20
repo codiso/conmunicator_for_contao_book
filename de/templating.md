@@ -1,4 +1,4 @@
-# Templating2
+# Templating
 
 Nicht in jedem Fall ist das Mapping der Seiten über den Contao-Seiten-Alias sinnvoll. Vorallem bei komplexeren Websites wird dieses Vorgehen kompliziert, denn für jede Contao-Seite benötigt man eine passende Adobe Muse CC Seite.
 
