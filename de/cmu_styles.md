@@ -57,7 +57,7 @@ Platzhalter können in Texten genutzt werden. Sie werden durch die unten beschri
 | \{\{cmu_version\}\} | Wird durch die aktuelle Version des Conmunicator ersetzt.|
 | \{\{cmu_muversion\}\} | Wird durch die aktuelle Adobe Muse CC Version ersetzt.|
 | \{\{cmu_phpversion\}\} | Wird durch die aktuelle PHP Version ersetzt.|
-| {{cmu_language}} | Wird durch die aktuelle Sprache ersetzt. Kann bei Bedarf auch in Links genutzt werden.|
+| \{\{cmu_language\}\} | Wird durch die aktuelle Sprache ersetzt. Kann bei Bedarf auch in Links genutzt werden.|
 
 Ersetzen Sie die nachstehenden Platzhalter durch passende Werte:
 
