@@ -12,16 +12,16 @@ Zur einfachen Einbindung von Contao-Inhalten, werden die nachstehenden Stile zur
 
 | Stil: | Bedeutung: |
 | --- | --- |
-| cmu\_main | Inhalte der Contao-Hauptspalte. |
-| cmu\_header | Inhalte der Contao-Kopfspalte. |
-| cmu\_footer | Inhalte der Contao-Fußspalte. |
-| cmu\_left | Inhalte der linken Contao-Inhaltsspalte. |
-| cmu\_right | Inhalte der rechten Contao-Inhaltsspalte. |
-| cmu\_section\_NAME | Inhalte eines eigenen Contao-Layoutbereiches. |
-| cmu\_template\_NAME | Inhalt eines eigenen [Code-Templates](templating.md) für ein Device unter Nutzung der Benamung. Die entsprechenden Dateien werden unter dem Pfad **\/conmunicator\/templates\/****\[****DEVICE\]** abgelegt. Existiert ein benanntes [Code-Template](templating.md) noch nicht, wird dies automatisch als Datei erzeugt und der Inhalt des Tamplates wird aus dem HTML-Code entnommen. |
-| cmu\_article\_LANG\_ID | Inhalt eines speziellen Contao-Artikels für eine bestimmte Sprache unter Nutzung der Artikel-ID. |
-| cmu\_content\_LANG\_ID | Inhalt eines speziellen Contao-Inhaltselementes für eine bestimmte Sprache unter Nutzung der Element-ID. |
-| cmu\_module\_LANG\_ID | Inhalt eines speziellen Contao-Moduls für eine bestimmte Sprache unter Nutzung der Modul-ID. |
+| cmu_main | Inhalte der Contao-Hauptspalte. |
+| cmu_header | Inhalte der Contao-Kopfspalte. |
+| cmu_footer | Inhalte der Contao-Fußspalte. |
+| cmu_left | Inhalte der linken Contao-Inhaltsspalte. |
+| cmu_right | Inhalte der rechten Contao-Inhaltsspalte. |
+| cmu_section_NAME | Inhalte eines eigenen Contao-Layoutbereiches. |
+| cmu_template_NAME | Inhalt eines eigenen [Code-Templates](templating.md) für ein Device unter Nutzung der Benamung. Die entsprechenden Dateien werden unter dem Pfad **\/conmunicator\/templates\/****\[****DEVICE\]** abgelegt. Existiert ein benanntes [Code-Template](templating.md) noch nicht, wird dies automatisch als Datei erzeugt und der Inhalt des Tamplates wird aus dem HTML-Code entnommen. |
+| cmu_article_LANG_ID | Inhalt eines speziellen Contao-Artikels für eine bestimmte Sprache unter Nutzung der Artikel-ID. |
+| cmu_content_LANG_ID | Inhalt eines speziellen Contao-Inhaltselementes für eine bestimmte Sprache unter Nutzung der Element-ID. |
+| cmu_module_LANG_ID | Inhalt eines speziellen Contao-Moduls für eine bestimmte Sprache unter Nutzung der Modul-ID. |
 
 Ersetzen Sie die nachstehenden Platzhalter durch passende Werte:
 
@@ -45,19 +45,19 @@ Platzhalter können in Texten genutzt werden. Sie werden durch die unten beschri
 | Platzhalter: | Bedeutung: |
 | --- | --- |
 | \{\{cmu_main\}\} | Wird durch die Inhalte der Contao-Hauptspalte ersetzt. |
-| {{cmu\_header\} \} | Wird durch die Inhalte der Contao-Kopfspalte ersetzt. |
-| \{ \{cmu\_footer\} \} | Wird durch die Inhalte der Contao-Fußspalte ersetzt. |
-| \{ \{cmu\_left\} \} | Wird durch die Inhalte der linken Contao-Inhaltsspalte ersetzt. |
-| \{ \{cmu\_right\} \} | Wird durch die Inhalte der rechten Contao-Inhaltsspalte ersetzt. |
-| \{ \{cmu\_section\_NAME\} \} | Inhalte eines eigenen Contao-Layoutbereiches. |
-| \{ \{cmu\_template\_NAME\} \} | Inhalt eines eigenen [Code-Templates](templating.md) für ein Device unter Nutzung der Benamung. Die entsprechenden Dateien müssen unter dem Pfad **\/conmunicator\/templates\/****\[****DEVICE\]** abgelegt sein. |
-| \{ \{cmu\_article\_LANG\_ID\} \} | Wird durch den Inhalt eines speziellen Contao-Artikels für eine bestimmte Sprache unter Nutzung der Artikel-ID ersetzt. |
-| \{ \{cmu\_content\_LANG\_ID\} \} | Wird durch den Inhalt eines speziellen Contao-Inhaltselementes für eine bestimmte Sprache unter Nutzung der Element-ID ersetzt. |
-| \{ \{cmu\_module\_LANG\_ID\} \} | Wird durch den Inhalt eines speziellen Contao-Moduls für eine bestimmte Sprache unter Nutzung der Modul-ID ersetzt. |
-| \{ \{cmu\_version\} \} | Wird durch die aktuelle Version des Conmunicator ersetzt. |
-| \{ \{cmu\_muversion\} \} | Wird durch die aktuelle Adobe Muse CC Version ersetzt. |
-| \{\{cmu\_phpversion\} \} | Wird durch die aktuelle PHP Version ersetzt. |
-| \{ \{cmu\_language\} \} | Wird durch die aktuelle Sprache ersetzt. Kann bei Bedarf auch in Links genutzt werden. |
+| {{cmu_header\}\} | Wird durch die Inhalte der Contao-Kopfspalte ersetzt. |
+| \{\{cmu_footer\}\} | Wird durch die Inhalte der Contao-Fußspalte ersetzt. |
+| \{\{cmu_left\}\} | Wird durch die Inhalte der linken Contao-Inhaltsspalte ersetzt. |
+| \{\{cmu_right\}\} | Wird durch die Inhalte der rechten Contao-Inhaltsspalte ersetzt. |
+| \{\{cmu_section_NAME\}\} | Inhalte eines eigenen Contao-Layoutbereiches. |
+| \{\{cmu_template_NAME\}\} | Inhalt eines eigenen [Code-Templates](templating.md) für ein Device unter Nutzung der Benamung. Die entsprechenden Dateien müssen unter dem Pfad **\/conmunicator\/templates\/****\[****DEVICE\]** abgelegt sein. |
+| \{\{cmu_article_LANG_ID\}\} | Wird durch den Inhalt eines speziellen Contao-Artikels für eine bestimmte Sprache unter Nutzung der Artikel-ID ersetzt. |
+| \{\{cmu_content_LANG_ID\}\} | Wird durch den Inhalt eines speziellen Contao-Inhaltselementes für eine bestimmte Sprache unter Nutzung der Element-ID ersetzt. |
+| \{\{cmu_module_LANG_ID\}\} | Wird durch den Inhalt eines speziellen Contao-Moduls für eine bestimmte Sprache unter Nutzung der Modul-ID ersetzt. |
+| \{\{cmu_version\}\} | Wird durch die aktuelle Version des Conmunicator ersetzt. |
+| \{\{cmu_muversion\}\} | Wird durch die aktuelle Adobe Muse CC Version ersetzt. |
+| \{\{cmu_phpversion\}\} | Wird durch die aktuelle PHP Version ersetzt. |
+| \{\{cmu_language\}\} | Wird durch die aktuelle Sprache ersetzt. Kann bei Bedarf auch in Links genutzt werden. |
 
 Ersetzen Sie die nachstehenden Platzhalter durch passende Werte:
 
