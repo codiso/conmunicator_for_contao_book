@@ -44,7 +44,7 @@ Platzhalter können in Texten genutzt werden. Sie werden durch die unten beschri
 
 | Platzhalter: | Bedeutung: |
 | --- | --- |
-| {{cmu_main}} | Wird durch die Inhalte der Contao-Hauptspalte ersetzt. |
+| { {cmu_main} } | Wird durch die Inhalte der Contao-Hauptspalte ersetzt. |
 | \{ \{cmu\_header\} \} | Wird durch die Inhalte der Contao-Kopfspalte ersetzt. |
 | \{ \{cmu\_footer\} \} | Wird durch die Inhalte der Contao-Fußspalte ersetzt. |
 | \{ \{cmu\_left\} \} | Wird durch die Inhalte der linken Contao-Inhaltsspalte ersetzt. |
