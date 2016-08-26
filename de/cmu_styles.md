@@ -44,12 +44,12 @@ Platzhalter können in Texten genutzt werden. Sie werden durch die unten beschri
 
 | Platzhalter: | Bedeutung: |
 | -- | -- |
-| {{cmu_main}} | Wird durch die Inhalte der Contao-Hauptspalte ersetzt.|
-| {{cmu_header}} | Wird durch die Inhalte der Contao-Kopfspalte ersetzt.|
-| {{cmu_footer}} | Wird durch die Inhalte der Contao-Fußspalte ersetzt.|
-| {{cmu_left}} | Wird durch die Inhalte der linken Contao-Inhaltsspalte ersetzt.|
-| {{cmu_right}} | Wird durch die Inhalte der rechten Contao-Inhaltsspalte ersetzt.|
-| {{cmu_section_NAME}} | Inhalte eines eigenen Contao-Layoutbereiches.|
+| \{\{cmu_main\}\} | Wird durch die Inhalte der Contao-Hauptspalte ersetzt.|
+| \{\{cmu_header}} | Wird durch die Inhalte der Contao-Kopfspalte ersetzt.|
+| cmu_footer}} | Wird durch die Inhalte der Contao-Fußspalte ersetzt.|
+| cmu_left}} | Wird durch die Inhalte der linken Contao-Inhaltsspalte ersetzt.|
+| cmu_right}} | Wird durch die Inhalte der rechten Contao-Inhaltsspalte ersetzt.|
+| cmu_section_NAME}} | Inhalte eines eigenen Contao-Layoutbereiches.|
 | {{cmu_template_NAME}} | Inhalt eines eigenen [Code-Templates](templating.md) für ein Device unter Nutzung der Benamung. Die entsprechenden Dateien müssen unter dem Pfad **/conmunicator/templates/[DEVICE]** abgelegt sein.|
 | {{cmu_article_LANG_ID}} | Wird durch den Inhalt eines speziellen Contao-Artikels für eine bestimmte Sprache unter Nutzung der Artikel-ID ersetzt.|
 | {{cmu_content_LANG_ID}} | Wird durch den Inhalt eines speziellen Contao-Inhaltselementes für eine bestimmte Sprache unter Nutzung der Element-ID ersetzt.|
