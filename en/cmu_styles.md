@@ -1,4 +1,4 @@
-# Dynamize the Adiobe Muse CC Project
+# Dynamize the Adobe Muse CC Project
 
 Conmunicator uses the styles from Adiobe Muse CC to combine dynamic content from Contao with the visual elements of Adiobe Muse CC. This is an easy operation and requires no further programming skills.
 
