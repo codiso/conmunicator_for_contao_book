@@ -8,7 +8,7 @@ The registration of your licenses takes place in the file **licenses.php** under
 //----------------------------------------------------------------------------------
 // Bringing two worlds together …
 //==================================================================================
-$muse["licenses"] = array(
+$cmu["licenses"] = array(
 	"### enter your license key here ###",
 );
 ?>
