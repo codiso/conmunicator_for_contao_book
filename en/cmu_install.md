@@ -1,5 +1,5 @@
 # Install Conmunicator
-To install <.CONMUNICATOR>, you must download the latest version from http://www.conmunicator.de.
+To install Cinmunicator, you must download the latest version from http://www.conmunicator.de.
 
 ![](images/installation/cmu_website.png)
 
