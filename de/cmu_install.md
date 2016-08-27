@@ -1,5 +1,5 @@
 # Installation des Conmunicator
-Um den <.CONMUNICATOR> zu installieren, müssen Sie diesen von http://www.conmunicator.de herunterladen. Auf der Startseite finden Sie den Link für den Download der aktuellen Version.
+Um den Conmunicator zu installieren, müssen Sie diesen von http://www.conmunicator.de herunterladen. Auf der Startseite finden Sie den Link für den Download der aktuellen Version.
 
 ![](images/installation/cmu_website.jpg)
 
@@ -11,4 +11,4 @@ Den Ordner Conmunicator kopieren Sie in das Wurzelverzeichniss Ihrer Contao-Inst
 
 ![](images/installation/cmu_contao_filesstructure.png)
 
-Der <.CONMUNICATOR> ist nun lokal einsatzbereit. Für den Betrieb auf einer Top-Level Domain, benötigen Sie eine entsprechende [Lizenz](lizenzen.md).
+Der Conmunicator ist nun lokal einsatzbereit. Für den Betrieb auf einer Top-Level Domain, benötigen Sie eine entsprechende [Lizenz](lizenzen.md).
