@@ -8,7 +8,7 @@ Die Eintragung der Lizenzen erfolgt in der Datei **licenses.php** unter **/conmu
 //----------------------------------------------------------------------------------
 // Bringing two worlds together …
 //==================================================================================
-$muse["licenses"] = array(
+$cmu["licenses"] = array(
 	"### enter your license key here ###",
 );
 ?>
