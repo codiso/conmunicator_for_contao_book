@@ -40,7 +40,7 @@ Stile können auch mehrfachdefinitionen enthalten. Für mehr Informationen siehe
 
 ## Platzhalter
 
-Platzhalter können in Texten genutzt werden. Sie werden durch die unten beschriebenen Inhalte ersetzt. Die Schreibweise ist an die der [Contao-InsertTags](https://docs.contao.org/books/manual/3.5/de/04-inhalte-verwalten/inserttags.html) angelehnt. InsertTags können auch auch in Adobe Muse CC genutzt werden.
+Platzhalter können frei in Texten genutzt werden und werden durch die unten beschriebenen Inhalte ersetzt. Die Schreibweise ist an die der [Contao-InsertTags](https://docs.contao.org/books/manual/3.5/de/04-inhalte-verwalten/inserttags.html) angelehnt. InsertTags können ebenfalls in Adobe Muse CC genutzt werden.
 
 | Platzhalter: | Bedeutung: |
 | --- | --- |
