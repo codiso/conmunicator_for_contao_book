@@ -19,9 +19,9 @@ Zur einfachen Einbindung von Contao-Inhalten, werden die nachstehenden Stile zur
 | cmu_right | Inhalte der rechten Contao-Inhaltsspalte. |
 | cmu_section_NAME | Inhalte eines eigenen Contao-Layoutbereiches. |
 | cmu_template_NAME | Inhalt eines eigenen [Code-Templates](templating.md) für ein Device unter Nutzung der Benamung. Die entsprechenden Dateien werden unter dem Pfad **\/conmunicator\/templates\/\*\***\[**\*\*DEVICE\]** abgelegt. Existiert ein benanntes [Code-Template](templating.md) noch nicht, wird dies automatisch als Datei erzeugt und der Inhalt des Tamplates wird aus dem HTML-Code entnommen. |
-| cmu\_article\_LANG\_ID | Inhalt eines speziellen Contao-Artikels für eine bestimmte Sprache unter Nutzung der Artikel-ID. |
-| cmu\_content\_LANG\_ID | Inhalt eines speziellen Contao-Inhaltselementes für eine bestimmte Sprache unter Nutzung der Element-ID. |
-| cmu\_module\_LANG\_ID | Inhalt eines speziellen Contao-Moduls für eine bestimmte Sprache unter Nutzung der Modul-ID. |
+| cmu_articleLANG_ID | Inhalt eines speziellen Contao-Artikels für eine bestimmte Sprache unter Nutzung der Artikel-ID. |
+| cmu_content_LANG_ID | Inhalt eines speziellen Contao-Inhaltselementes für eine bestimmte Sprache unter Nutzung der Element-ID. |
+| cmu_module_LANG_ID | Inhalt eines speziellen Contao-Moduls für eine bestimmte Sprache unter Nutzung der Modul-ID. |
 
 Ersetzen Sie die nachstehenden Platzhalter durch passende Werte:
 
@@ -44,7 +44,7 @@ Platzhalter können in Texten genutzt werden. Sie werden durch die unten beschri
 
 | Platzhalter: | Bedeutung: |
 | --- | --- |
-| {{cmu\_main}} | Wird durch die Inhalte der Contao-Hauptspalte ersetzt. |
+| {{cmu_main}} | Wird durch die Inhalte der Contao-Hauptspalte ersetzt. |
 | {{cmu_header}} | Wird durch die Inhalte der Contao-Kopfspalte ersetzt. |
 | {{cmu_footer}} | Wird durch die Inhalte der Contao-Fußspalte ersetzt. |
 | {{cmu_left}} | Wird durch die Inhalte der linken Contao-Inhaltsspalte ersetzt. |
