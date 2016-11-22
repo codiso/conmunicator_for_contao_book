@@ -19,7 +19,7 @@ Zur einfachen Einbindung von Contao-Inhalten, werden die nachstehenden Stile zur
 | cmu_right | Inhalte der rechten Contao-Inhaltsspalte. |
 | cmu_section_NAME | Inhalte eines eigenen Contao-Layoutbereiches. |
 | cmu_template_NAME | Inhalt eines eigenen [Code-Templates](templating.md) für ein Device unter Nutzung der Benamung. Die entsprechenden Dateien werden unter dem Pfad **\/conmunicator\/templates\/\*\***\[**\*\*DEVICE\]** abgelegt. Existiert ein benanntes [Code-Template](templating.md) noch nicht, wird dies automatisch als Datei erzeugt und der Inhalt des Tamplates wird aus dem HTML-Code entnommen. |
-| cmu_article__LANG_ID | Inhalt eines speziellen Contao-Artikels für eine bestimmte Sprache unter Nutzung der Artikel-ID. |
+| cmu_article_LANG_ID | Inhalt eines speziellen Contao-Artikels für eine bestimmte Sprache unter Nutzung der Artikel-ID. |
 | cmu_content_LANG_ID | Inhalt eines speziellen Contao-Inhaltselementes für eine bestimmte Sprache unter Nutzung der Element-ID. |
 | cmu_module_LANG_ID | Inhalt eines speziellen Contao-Moduls für eine bestimmte Sprache unter Nutzung der Modul-ID. |
 
