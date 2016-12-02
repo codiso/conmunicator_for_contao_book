@@ -1,5 +1,5 @@
 # Das Contao-CMS
-Das seit über neun Jahren aktive Contao-CMS, ist mittlerweile eine feste Größe unter den Open-Source Content-Management-Systemen. Seine einfache und intuitive Bedienung findet immer mehr Zuspruch. Für mich ist es das bevorzugte CMS, bei der Umsetzung meiner Projekte. Bisher gab es noch keinen Fall, in dem eine Umsetzung behindert oder gar unmöglich gewesen wäre.
+Das seit zehn Jahren aktive Contao-CMS, ist mittlerweile eine feste Größe unter den Open-Source Content-Management-Systemen. Seine einfache und intuitive Bedienung findet immer mehr Zuspruch. Für mich ist es das bevorzugte CMS, bei der Umsetzung meiner Projekte. Bisher gab es noch keinen Fall, in dem eine Umsetzung behindert oder gar unmöglich gewesen wäre.
 
 ![](images/contao/contao_homepage.png)
 
