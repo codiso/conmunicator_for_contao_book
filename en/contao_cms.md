@@ -10,4 +10,4 @@ The installation of Contao is described in the provided manuals. You  will find 
 
 [Contao 3.5.x LTS](https://docs.contao.org/books/manual/3.5/en/01-installation/contao-installieren.html)
 
-[Contao 4.x](https://docs.contao.org/books/manual/4.2/en/01-installation/contao-installieren.html)
+[Contao 4.x](https://docs.contao.org/books/manual/4.2/en/01-installation/installing-contao.html)
