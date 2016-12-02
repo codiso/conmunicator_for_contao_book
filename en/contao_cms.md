@@ -8,6 +8,6 @@ The Contao-CMS is accessible, neutral to your designs. The installation , with M
 ## The Installation
 The installation of Contao is described in the provided manuals. You  will find all information here:
 
-[Contao 3.5.x LTS](https://docs.contao.org/books/manual/3.5/en/01-installation/contao-installieren.html)
+[Contao 3.5.x LTS](https://docs.contao.org/books/manual/3.5/en/01-installation/installing-contao.html)
 
 [Contao 4.x](https://docs.contao.org/books/manual/4.2/en/01-installation/installing-contao.html)
