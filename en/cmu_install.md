@@ -7,8 +7,14 @@ After downloading you will find the .zip archive in your download folder. Unpack
 
 ![](images/installation/cmu_content.png)
 
-Copy the folder named "communicator" to the root directory of your Contao installation. Copy the file "fe_conmunicator.html5" to the subdirectory **/templates**.
+## Contao 3.x
 
-![](images/installation/cmu_contao_filesstructure.png)
+Copy the folder named "conmunicator" to the root directory of your Contao installation. Copy the files from "templates" to the Contao directory "templates".
 
-The <.COMMUNICATOR> is now ready for local use. For an operation on a top-level domain, you need an appropriate [license](lizenzen.md).
+The Conmunicator is now ready for local use. For an operation on a top-level domain, you need an appropriate [license](lizenzen.md).
+
+## Contao 4.x
+
+Copy the folder named "conmunicator" to the folder "web" of your Contao installation. Copy the files from "templates" to the Contao directory "templates".
+
+The Conmunicator is now ready for local use. For an operation on a top-level domain, you need an appropriate [license](lizenzen.md).
