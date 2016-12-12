@@ -14,6 +14,6 @@ Der Conmunicator ist nun lokal einsatzbereit. Für den Betrieb auf einer Top-Lev
 
 ## Contao 4.x
 
-Den Ordner "conmunicator" kopieren Sie in das Verzeichnis "web" Ihrer Contao-Installation. Die Dateien aus dem Ordner "templates" legen Sie in dem Unterverzeichnis "templates" ab.
+Den Ordner "**/conmunicator**" kopieren Sie in das Verzeichnis "**/web**" Ihrer Contao-Installation. Die Dateien aus dem Ordner "**/templates**" legen Sie in dem Unterverzeichnis "**/templates**" ab.
 
 Der Conmunicator ist nun lokal einsatzbereit. Für den Betrieb auf einer Top-Level Domain, benötigen Sie eine entsprechende [Lizenz](lizenzen.md).
