@@ -1,4 +1,5 @@
 # Lizenzen
+
 Die Eintragung der Lizenzen erfolgt in der Datei **licenses.php** unter **/conmunicator/core/**.
 
 ```php
