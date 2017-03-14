@@ -6,7 +6,7 @@ In the file **text_replacement.php** own text replacements can be defined.
 replace_text($search,$replace,$regex=false)
 ```
 
-| Parameter: | Bedeutung: |
+| Parameter: | Description: |
 | -- | -- |
 | $search |Text der gesucht werden soll. Ist **$regex=true**, so wird $search als RegEx interpretiert.|
 | $replace |Text der als Ersetzung dienen soll.|
