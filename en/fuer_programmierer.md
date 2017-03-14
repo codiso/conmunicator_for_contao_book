@@ -3,15 +3,15 @@ Looking at the side of design from the perspective of an Adobe-MUSE project, sty
 
 For complicated requirements, styles ar not enough to reach your target. You will need more control over the allocation of dynamic content to DOM elements of the HTML document.
 
-With <.COMMUNICATOR> you have several ways to control the assignment or integrate own code.
+With Conmunicator you have several ways to control the assignment or integrate own code.
 
 | Mode: | File: | Importance: |
 | -- | -- | -- |
-| Content-Mapping |content\_mapping\_[LANG].php| Content from Contao can be used by define CSS selectors.|
-| File-Mapping |file\_mapping.php| Adobe-MUSE pages can be matched by using the page alias from Contao.|
-| Code at end of head |code\_at\_end\_of\_head.php| Insert own code at the end of the head section.|
-| Code at end of body |code\_at\_end\_of\_body.php| Insert own code at the end of the body section.|
-| Text replacement |text\_replacement.php| Define own text replacements.|
+| Content-Mapping |content_mapping.php| Content from Contao can be used by define CSS selectors.|
+| File-Mapping |file_mapping.php| Adobe-MUSE pages can be matched by using the page alias from Contao.|
+| Code at end of head |code_at_end_of_head.php| Insert own code at the end of the head tag.|
+| Code at end of body |code_at_end_of_body.php| Insert own code at the end of the body tag.|
+| Text replacement |text_replacement.php| Define own text replacements.|
 
 ## Adaptive Layout
 With Adobe-MUSE a layout can be constructed adaptively. Three independent sites are created by Adobe-MUSE. These are organized into seperated folders.
