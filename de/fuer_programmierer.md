@@ -11,8 +11,8 @@ Mit Conmunicator hat man verschiedene Möglichkeiten die Zuordnung zu kontrollie
 | Content-Mapping | content_mapping.php | Inhalte aus Contao können über XPath zugeordnet werden. |
 | File-Mapping | file_mapping.php | Seiten aus Contao können über den Seitenalias manuell Adobe Muse CC Seiten zugeordnet werden. |
 | Code at end of head | code_at_end_of_head.php | Um eigenen Code am Ende des head-Tag's zu plazieren. |
-| Code at end of body | code\_at\_end\_of\_body.php | Um eigenen Code am Ende des body-Tag's zu plazieren. |
-| Text replacement | text\_replacement.php | Texte finden und durch  ersetzen. |
+| Code at end of body | code_at_end_of_body.php | Um eigenen Code am Ende des body-Tag's zu plazieren. |
+| Text replacement | text_replacement.php | Texte finden und durch  ersetzen. |
 
 ## Adaptives Layout
 
@@ -21,8 +21,8 @@ Mit Adobe Muse CC kann ein Layout adaptiv aufgebaut werden. Es entstehen, bei ei
 | Gerät: | Bedeutung: |
 | --- | --- |
 | Desktop | Inhalte für die Darstellung auf einem Desktop-Computer oder Laptop, werden auf der obersten Ebene des Exports abgelegt. |
-| Tablet | Inhalte für die Darstellung auf einem Tablet befinden sich im Ordner **\/tablet**. |
-| Phone | Inhalte für die Darstellung auf einem Tablet befinden sich im Ordner **\/phone**. |
+| Tablet | Inhalte für die Darstellung auf einem Tablet befinden sich im Ordner **/tablet**. |
+| Phone | Inhalte für die Darstellung auf einem Tablet befinden sich im Ordner **/phone**. |
 
 Damit eine Kontrolle der einzelnen Versionen möglich wird, besitzt &lt;.CONMUNICATOR&gt; drei Ordner für die genannten exportierten Sites.
 
