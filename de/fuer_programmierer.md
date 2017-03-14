@@ -1,6 +1,6 @@
 # Für Programmierer …
 
-Betrachtet man die Seite der Gestaltung aus Sicht des Adobe Muse CC Projektes, so sind Stile die einfachste und unkomplizierteste Art dynamische Inhalte aus dem Contao-CMS mit dem statischen Layout zu verbinden.
+Betrachtet man die Seite der Gestaltung aus Sicht des Adobe Muse CC Projektes, so sind Stile die einfachste und unkomplizierteste Art dynamische Inhalte aus dem CMS mit dem statischen Layout zu verbinden.
 
 Bei komplizierteren Ansprüchen, wird man mit Stilen alleine nicht ans Ziel gelangen. Hier benötigt man mehr Kontrolle über die Zuordnung von dynmaischen Inhalten zu den DOM-Elementen des HTML-Dokumentes.
 
