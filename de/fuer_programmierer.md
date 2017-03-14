@@ -4,14 +4,14 @@ Betrachtet man die Seite der Gestaltung aus Sicht des Adobe Muse CC Projektes, s
 
 Bei komplizierteren Ansprüchen, wird man mit Stilen alleine nicht ans Ziel gelangen. Hier benötigt man mehr Kontrolle über die Zuordnung von dynmaischen Inhalten zu den DOM-Elementen des HTML-Dokumentes.
 
-Mit &lt;.CONMUNICATOR&gt; hat man verschiedene Möglichkeiten die Zuordnung zu kontrollieren oder eigenen Code einzubinden.
+Mit Conmunicator hat man verschiedene Möglichkeiten die Zuordnung zu kontrollieren oder eigenen Code einzubinden.
 
 | Art: | Datei: | Bedeutung: |
 | --- | --- | --- |
-| Content-Mapping | content\_mapping\_[LANG].php | Inhalte aus Contao können über XPath zugeordnet werden. |
-| File-Mapping | file\_mapping.php | Seiten aus Contao können über den Seitenalias manuell Adobe Muse CC Seiten zugeordnet werden. |
-| Code at end of head | code\_at\_end\_of\_head.php | Um eigenen Code am Ende des &lt;head&gt; zu plazieren. |
-| Code at end of body | code\_at\_end\_of\_body.php | Um eigenen Code am Ende des &lt;body&gt; zu plazieren. |
+| Content-Mapping | content_mapping.php | Inhalte aus Contao können über XPath zugeordnet werden. |
+| File-Mapping | file_mapping.php | Seiten aus Contao können über den Seitenalias manuell Adobe Muse CC Seiten zugeordnet werden. |
+| Code at end of head | code_at_end_of_head.php | Um eigenen Code am Ende des head-Tag's zu plazieren. |
+| Code at end of body | code\_at\_end\_of\_body.php | Um eigenen Code am Ende des body-Tag's zu plazieren. |
 | Text replacement | text\_replacement.php | Texte finden und durch  ersetzen. |
 
 ## Adaptives Layout
