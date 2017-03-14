@@ -12,7 +12,7 @@ If a device has no specific file, the "desktop" version will be tried to load. I
 
 To change content in the HTML document, Conmunicator provides several functions.
 
-| Funktion | Bedeutung |
+| Function | Description |
 |-|-|
 |get_lang()|The function returns the currently used language (de, en, …).|
 |replace_content_by_id($id,$html)|The function replaces the content of an HTML element with the used **id**.|
