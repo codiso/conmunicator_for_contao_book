@@ -26,9 +26,9 @@ Mit Adobe Muse CC kann ein Layout adaptiv aufgebaut werden. Es entstehen, bei ei
 
 Damit eine Kontrolle der einzelnen Versionen möglich wird, besitzt &lt;.CONMUNICATOR&gt; drei Ordner für die genannten exportierten Sites.
 
-* \/devices\/desktop
-* \/devices\/tablet
-* \/devices\/phone
+* /devices/desktop
+* /devices/tablet
+* /devices/phone
 
 In jedem dieser Ordner befinden sich die Dateien, zur Kontrolle, der oben genannten Arten.
 
