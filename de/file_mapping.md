@@ -8,6 +8,8 @@ In der Datei '**file_mapping.php**' kann durch die Angabe des Seitenalias eine S
 file_mapping("alias","fname");
 ```
 
+Für **fname** tragen Sie den Dateinamen der Adobe Muse CC Datei ohne die Endung ".html" ein.
+
 | Alias: | Bedeutung: |
 | -- | -- |
 | * |Alle Seiten werden mit der zugewiesenen Datei verknüpft.|

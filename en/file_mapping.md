@@ -9,6 +9,7 @@ $muse_file_mapping = array(
     "alias" => "file.html",
 );
 ```
+For **fname** enter the filename of the Adobe Muse CC file without the suffix ".html".
 
 | Alias: | Importance: |
 | -- | -- |
