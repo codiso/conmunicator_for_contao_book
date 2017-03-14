@@ -1,13 +1,11 @@
 # File Mapping
 
-Im Normalfall werden Seiten, aus dem Contao-CMS, über den Seitenalias mit der entsprechenden Seite, aus dem Adobe Muse CC Projekt, gemappt.
+Im Normalfall werden Seiten, aus dem Contao-CMS, über den Seitenalias mit der entsprechenden Seite, aus dem Adobe Muse CC Projekt, verbunden.
 
 In der Datei '**file_mapping.php**' kann durch die Angabe des Seitenalias eine Seite, aus dem Contao-CMS, auf eine andere Datei, des Adobe Muse CC Projektes, verweisen.
 
 ```php
-$muse_file_mapping = array(
-    "alias" => "file.html",
-);
+file_mapping("alias","fname");
 ```
 
 | Alias: | Bedeutung: |
