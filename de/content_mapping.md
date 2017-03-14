@@ -8,7 +8,7 @@ content_mapping.php
 
 Sollte für ein Endgerät keine spezifische Datei vorhanden sein, so wird automatisch auf "desktop" zurückgeschaltet. Sollte auch hier keine Datei vorhanden sein, findet das "Content Mapping" nicht statt.
 
-## XPath
+## Funktionalitäten
 
 Conmunicator nutzt das [DOMDocument](http://php.net/manual/de/class.domdocument.php "PHP-DOMDocument") aus PHP um DOM-Manipulationen durchzuführen. In der Datei kann auf drei Objekte zugegriffen werden:
 
