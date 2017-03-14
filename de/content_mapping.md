@@ -3,7 +3,7 @@
 Um diese Funktion zu nutzen, können unter dem Ordner /conmunicator/devices/ Unterordner (desktop,tablet,phone) angelegt werden. In den Ordnern kann dann die entsprechende Textdatei angelegt werden.
 
 ```
-content_mapping_[LANG].php
+content_mapping.php
 ```
 
 Sollte für ein Endgerät keine spezifische Datei vorhanden sein, so wird automatisch auf "desktop" zurückgeschaltet. Sollte auch hier keine Datei vorhanden sein, findet das "Content Mapping" nicht statt.
