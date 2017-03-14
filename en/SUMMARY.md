@@ -18,6 +18,6 @@
     * [File Mapping](file_mapping.md)
     * [Code at end of head](code_at_end_of_head.md)
     * [Code at end of body](code_at_end_of_body.md)
-    * [Text replacement](text_replacement.md)
+    * [Text Replacement](text_replacement.md)
 * [Use-Cases](anwendungsfaelle.md)
 

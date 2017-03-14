@@ -1,13 +1,7 @@
 # Text replacement
-Bevor die Seite vom CMS ausgegeben wird ist hier die letzte Möglichkeit Textersetzungen durchzuführen. 
+
+In der Datei **text_replacement.php** können eigene Textersetzungen definiert werden. Hierzu steht eine Funktion zur Verfügung:
 
 ```php
-$replacements[] = array(
-	"search" => array(),
-	"replace" => array(),
-	["regex" => false,]
-);
+replace_text($search,$replace,$regex=false)
 ```
-
-* preg_replace
-* str_replace
