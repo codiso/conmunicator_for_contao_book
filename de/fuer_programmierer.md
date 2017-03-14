@@ -36,5 +36,5 @@ In jedem dieser Ordner befinden sich die Dateien, zur Kontrolle, der oben genann
 
 In aktuellen Version von Adobe Muse CC können Layouts responsiv aufgebaut werden. Hierbei gibt es nur ein Design. Über CSS-Media-Queries wird festlegt wie die Site auf unterschiedlichen Endgeräten visuell aufgebaut wird.
 
-In diesem Falle kann nur der Ordner **\/desktop** für die Kontrolle genutzt werden.
+In diesem Falle kann nur der Ordner **/desktop** für die Kontrolle genutzt werden.
 
