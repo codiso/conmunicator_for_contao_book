@@ -5,9 +5,8 @@ Normally the mapping of Contao-pages to the corresponding MUSE-pages is done by 
 In the '**file_mapping.php**' file you can specify the page alias corresponding to an Adobe Muse CC page.
 
 ```php
-$muse_file_mapping = array(
-    "alias" => "file.html",
-);
+file_mapping("alias","fname");
+
 ```
 For **fname** enter the filename of the Adobe Muse CC file without the suffix ".html".
 
