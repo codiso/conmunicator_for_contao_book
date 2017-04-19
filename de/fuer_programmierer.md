@@ -38,3 +38,17 @@ In aktuellen Version von Adobe Muse CC können Layouts responsiv aufgebaut werde
 
 In diesem Falle kann nur der Ordner **/desktop** für die Kontrolle genutzt werden.
 
+## Device-Erkennung
+
+In allen Varianten des responsiven Layouts wird am body-Tag einen entsprechende CSS-Klasse vermerkt.
+
+| Gerät: | CSS-Klasse: |
+| --- | --- |
+| Desktop | cmu_desktop |
+| Tablet | cmu_tablet|
+| Phone | cmu_phone |
+
+Es ist so möglich gerätespezifische CSS-Regeln zu erstellen. Eine weitere Vorgehensweise parallel zu den CSS-Media-Queries.
+
+
+
